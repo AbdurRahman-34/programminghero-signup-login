@@ -1,0 +1,6 @@
+.home-bg{
+    background: url(../../../images/bg.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 100vh;
+}

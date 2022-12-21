@@ -1,0 +1,20 @@
+.main-header {
+  background-color: #080824 !important;
+}
+.log-sign-btn {
+  background: rgb(205, 64, 245);
+  background: linear-gradient(
+    90deg,
+    rgba(205, 64, 245, 1) 0%,
+    rgba(147, 75, 250, 1) 50%,
+    rgba(79, 87, 254, 1) 100%
+  );
+  border: 0 px;
+  padding: 10px 40px;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: bold;
+}
+.nav-main nav{
+  margin-right: 30px;
+}

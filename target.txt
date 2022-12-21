@@ -1,0 +1,8 @@
+1. sigup page create 
+2. login page create 
+3. facebook authentication
+4. github authentication
+5. google authentication
+6. forget password
+7. terms and condition button add 
+8. icon on / off

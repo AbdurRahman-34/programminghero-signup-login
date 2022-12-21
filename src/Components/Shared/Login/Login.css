@@ -1,0 +1,28 @@
+.form-main {
+  width: 550px;
+  margin: 0 auto;
+  background-color: #070824;
+  padding: 40px;
+  color: #fff;
+  border-radius: 30px;
+}
+.form-main input:focus,
+.form-main input {
+  background: #131237;
+  color: #ededed;
+  border: 0;
+  padding: 18px;
+}
+.form-main input#formBasicCheckbox {
+  padding: 0;
+}
+.form-container h1 {
+  color: #e8aaff;
+  margin-bottom: 40px;
+  font-size: 45px;
+}
+.forget-password {
+  background: -webkit-linear-gradient(#C043F6,#5B55FD);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
