@@ -3,6 +3,7 @@ import './App.css';
 import About from './Components/About/About';
 import Blog from './Components/Blog/Blog';
 import Home from './Components/HomePage/Home/Home';
+import Footer from './Components/Shared/Footer/Footer';
 import Header from './Components/Shared/Header/Header';
 import Login from './Components/Shared/Login/Login';
 import Signup from './Components/Shared/Signup/Signup';
@@ -19,6 +20,7 @@ function App() {
         <Route path="/login" element={<Login/>}></Route> 
         <Route path="/signup" element={<Signup/>}></Route> 
       </Routes>
+      <Footer/>
     </div>
   );
 }
